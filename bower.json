@@ -1,0 +1,27 @@
+{
+  "name": "lumen",
+  "version": "1.1.0",
+  "authors": [
+    "kyr <kyrwastaken@gmail.com>"
+  ],
+  "description": "bower package for bootswatch lumen",
+  "main": "lumen.min.css",
+  "keywords": [
+    "bootstrap",
+    "bootswatch",
+    "lumen",
+    "theme",
+    "web",
+    "css",
+    "html"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/pre",
+    "test",
+    "tests"
+  ]
+}
